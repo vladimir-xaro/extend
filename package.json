@@ -1,0 +1,21 @@
+{
+  "name": "@xaro/extend",
+  "version": "0.0.0",
+  "description": "Function of merging object properties",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimir-xaro/extend.git"
+  },
+  "keywords": [
+    "extend",
+    "object",
+    "javascript"
+  ],
+  "author": "Vladimir Slavgorodskiy <vladimir.xaro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladimir-xaro/extend/issues"
+  },
+  "homepage": "https://github.com/vladimir-xaro/extend#readme"
+}
