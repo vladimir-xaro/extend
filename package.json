@@ -1,6 +1,6 @@
 {
   "name": "@xaro/extend",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Function of merging object properties",
   "main": "index.js",
   "repository": {
