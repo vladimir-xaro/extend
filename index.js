@@ -22,3 +22,7 @@ export default function extend(...args) {
   }
   return to;
 }
+
+export function isObject(o) {
+  return typeof o === 'object' && o !== null && o.constructor && o.constructor === Object;
+}
