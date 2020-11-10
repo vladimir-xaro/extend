@@ -22,7 +22,7 @@ const objC = {
   c: 'cucumber'
 };
 
-const objD = extend(objA, objB, objC);
+const objD = extend({}, objA, objB, objC);
 ```
 Value of **objD** is:
 ```js
