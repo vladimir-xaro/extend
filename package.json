@@ -1,6 +1,6 @@
 {
   "name": "@xaro/extend",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Object recursive extension helper",
   "main": "index.js",
   "repository": {
