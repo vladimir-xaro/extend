@@ -1,7 +1,7 @@
 {
   "name": "@xaro/extend",
   "version": "1.0.4",
-  "description": "Function of merging object properties",
+  "description": "Object recursive extension helper",
   "main": "index.js",
   "repository": {
     "type": "git",
