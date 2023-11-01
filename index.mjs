@@ -1,6 +1,4 @@
-export function isObject(val) {
-  return val != null && typeof val === 'object' && Array.isArray(val) === false;
-}
+import isObject from 'isobject';
 
 export default function extend(...args) {
   const to = Object(args[0]);
@@ -33,4 +31,8 @@ export default function extend(...args) {
   }
 
   return to;
+}
+
+export {
+  isObject
 }
