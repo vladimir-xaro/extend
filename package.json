@@ -22,5 +22,13 @@
   "homepage": "https://github.com/vladimir-xaro/extend#readme",
   "dependencies": {
     "isobject": "^4.0.0"
+  },
+  "release-it": {
+    "github": {
+      "release": true
+    }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
